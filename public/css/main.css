@@ -1,0 +1,12 @@
+/* ---- reset ---- */
+
+body {
+    margin: 0;
+    background-color: #1D1D1D;
+    font:normal 75% Arial, Helvetica, sans-serif;
+}
+
+canvas {
+    display: block;
+    vertical-align: bottom;
+}
